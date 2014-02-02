@@ -1,0 +1,14 @@
+/__init__.pyc
+/stock_change_product_qty.pyc
+/stock_change_standard_price.pyc
+/stock_fill_inventory.pyc
+/stock_inventory_line_split.pyc
+/stock_inventory_merge.pyc
+/stock_invoice_onshipping.pyc
+/stock_location_product.pyc
+/stock_move.pyc
+/stock_partial_move.pyc
+/stock_partial_picking.pyc
+/stock_return_picking.pyc
+/stock_splitinto.pyc
+/stock_traceability.pyc

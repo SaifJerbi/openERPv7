@@ -1,0 +1,15 @@
+/__init__.pyc
+/account_statement.pyc
+/all_closed_cashbox_of_the_day.pyc
+/pos_details.pyc
+/pos_details_summary.pyc
+/pos_invoice.pyc
+/pos_lines.pyc
+/pos_order_report.pyc
+/pos_payment_report.pyc
+/pos_payment_report_user.pyc
+/pos_receipt.pyc
+/pos_report.pyc
+/pos_sales_user.pyc
+/pos_sales_user_today.pyc
+/pos_users_product.pyc

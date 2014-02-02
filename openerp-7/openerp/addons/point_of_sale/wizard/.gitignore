@@ -1,0 +1,14 @@
+/__init__.pyc
+/pos_box.pyc
+/pos_box_entries.pyc
+/pos_confirm.pyc
+/pos_details.pyc
+/pos_discount.pyc
+/pos_open_statement.pyc
+/pos_payment.pyc
+/pos_payment_report.pyc
+/pos_payment_report_user.pyc
+/pos_receipt.pyc
+/pos_sales_user.pyc
+/pos_sales_user_today.pyc
+/pos_session_opening.pyc
